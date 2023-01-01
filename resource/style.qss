@@ -1,0 +1,14 @@
+/* QTableWidget {
+    font: 9pt "微软雅黑";
+    height: 20pt;
+    width : 30pt;
+}
+
+QColumnView::item {
+    font: 20pt;
+}             */
+
+/* QTableView::item{
+    height: 40px;
+} */
+
